@@ -22,3 +22,6 @@ while True:
 	reply=raw_input("Reply: ")
 	conn.sendall(reply)
 conn.close
+
+
+#modifying to make it as a multichat client
